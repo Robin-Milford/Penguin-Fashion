@@ -1,0 +1,68 @@
+.btn-custom {
+    background-color: #3D4FF3;
+    border-radius: 10px;
+    color: #FFF;
+    padding: 15px 20px 0px 15px;
+    width: 170px;
+    height: 60px;
+}
+
+.btn:hover {
+    color: #FFF;
+}
+
+.img-logo {
+    height: 30px;
+    margin-left: 30px;
+}
+
+h3.price {
+    font-weight: 900;
+    color: #FA804C;
+}
+
+.head-text1 {
+    color: #FA804C;
+    font-size: 60px;
+    font-weight: 640;
+}
+
+.head-text2 {
+    color: #363958;
+    font-size: 60px;
+    font-weight: 640;
+}
+
+.text-wrap {
+    font-weight: 400;
+}
+
+.rounded-new {
+    border-radius: 20px;
+}
+
+.h1-color {
+    color: #363958;
+}
+
+.h4-color {
+    color: #363958;
+    font-weight: 650;
+}
+
+.bg-new-col {
+    background-color: #FFF9F4;
+}
+
+.btn-send-email {
+    background-color: #3D4FF3;
+    border-radius: 10px;
+    color: #FFF;
+    padding: 15px 20px 0px 15px;
+    width: 100px;
+    height: 45px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
